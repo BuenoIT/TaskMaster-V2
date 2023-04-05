@@ -21,7 +21,7 @@ None
 
 ### 📋 Screenshots / Preview
 
-![image](https://user-images.githubusercontent.com/101655079/230155222-a4e3fc78-d4ae-4fda-bb37-1f4e2ccc7ba3.png)
+![image](https://user-images.githubusercontent.com/101655079/230155746-5a8432eb-439e-41c2-840d-75ea232daf9a.png)
 ![image](https://user-images.githubusercontent.com/101655079/230155325-e0a7e7e2-be60-4372-8bd9-31d04745c685.png)
 ![image](https://user-images.githubusercontent.com/101655079/230155378-dbf531f4-83d8-42b5-a41d-5697d15be2f2.png)
 ![image](https://user-images.githubusercontent.com/101655079/230155474-c86e534c-56f9-4c8e-af12-6bfe795b64cb.png)
